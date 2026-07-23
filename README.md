@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
