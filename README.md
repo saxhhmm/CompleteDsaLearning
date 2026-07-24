@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0015-3sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0100-same-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
