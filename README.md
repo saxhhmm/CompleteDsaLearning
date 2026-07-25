@@ -79,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0338-counting-bits) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0058-length-of-last-word) |
 ## Heap (Priority Queue)
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
