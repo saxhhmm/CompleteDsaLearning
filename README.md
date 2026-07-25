@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0371-sum-of-two-integers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0202-happy-number) |
 ## Linked List
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0338-counting-bits) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
