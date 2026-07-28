@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0371-sum-of-two-integers) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0338-counting-bits) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0205-isomorphic-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
