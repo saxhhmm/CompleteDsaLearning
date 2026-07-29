@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0628-maximum-product-of-three-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3536-maximum-product-of-two-digits) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Heap (Priority Queue)
