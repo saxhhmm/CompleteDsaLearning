@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0205-isomorphic-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
