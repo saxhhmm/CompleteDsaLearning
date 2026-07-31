@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0628-maximum-product-of-three-numbers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Heap (Priority Queue)
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -163,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Greedy
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
