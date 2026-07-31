@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0628-maximum-product-of-three-numbers) |
 | [3099-harshad-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3099-harshad-number) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0412-fizz-buzz) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0412-fizz-buzz) |
 ## Combinatorics
 |  |
 | ------- |
