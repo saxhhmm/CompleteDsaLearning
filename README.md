@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
 | [3099-harshad-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3099-harshad-number) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3536-maximum-product-of-two-digits) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0338-counting-bits) |
+| [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0021-merge-two-sorted-lists) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
