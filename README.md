@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0118-pascals-triangle) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0412-fizz-buzz) |
 ## Combinatorics
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0054-spiral-matrix) |
 ## String Matching
 |  |
 | ------- |
