@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0160-intersection-of-two-linked-lists) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0125-valid-palindrome) |
@@ -212,4 +214,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0048-rotate-image) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
