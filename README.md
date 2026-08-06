@@ -94,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0225-implement-stack-using-queues) |
 ## Simulation
 |  |
