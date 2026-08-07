@@ -263,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
