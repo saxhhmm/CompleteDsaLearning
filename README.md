@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0371-sum-of-two-integers) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0338-counting-bits) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3345-smallest-divisible-digit-product-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
