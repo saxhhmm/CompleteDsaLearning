@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
 | [3310-remove-methods-from-project](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0412-fizz-buzz) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
