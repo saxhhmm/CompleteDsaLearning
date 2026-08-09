@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
