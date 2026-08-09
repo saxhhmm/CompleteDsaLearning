@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3099-harshad-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -297,4 +301,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0278-first-bad-version) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
