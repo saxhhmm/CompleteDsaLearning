@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0495-teemo-attacking) |
+| [0518-coin-change-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0518-coin-change-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0338-counting-bits) |
+| [0518-coin-change-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
@@ -341,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
