@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0219-contains-duplicate-ii) |
+| [0322-coin-change](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0495-teemo-attacking) |
 | [0518-coin-change-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0518-coin-change-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
@@ -349,9 +352,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
