@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -361,4 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0518-coin-change-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
