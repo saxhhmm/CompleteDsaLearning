@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0977-squares-of-a-sorted-array) |
+| [0999-available-captures-for-rook](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0999-available-captures-for-rook) |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0495-teemo-attacking) |
+| [0999-available-captures-for-rook](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0999-available-captures-for-rook) |
 ## Combinatorics
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0054-spiral-matrix) |
+| [0999-available-captures-for-rook](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0999-available-captures-for-rook) |
 ## String Matching
 |  |
 | ------- |
