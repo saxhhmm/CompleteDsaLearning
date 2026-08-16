@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0045-jump-game-ii) |
+| [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 ## Matrix
 |  |
 | ------- |
@@ -355,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -364,10 +370,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
