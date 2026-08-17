@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0198-house-robber) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
