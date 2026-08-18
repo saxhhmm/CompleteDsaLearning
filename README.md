@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0999-available-captures-for-rook) |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1480-running-sum-of-1d-array) |
 ## Zero-Sum Game
 |  |
 | ------- |
