@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0999-available-captures-for-rook) |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1386-cinema-seat-allocation](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1563-stone-game-v) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
+| [1386-cinema-seat-allocation](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1386-cinema-seat-allocation](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0045-jump-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
