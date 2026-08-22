@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
 ## Hash Table
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0394-decode-string) |
 ## Simulation
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0303-range-sum-query-immutable) |
 ## Queue
@@ -448,4 +452,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
