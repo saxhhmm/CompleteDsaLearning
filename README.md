@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3099-harshad-number) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1927-sum-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0045-jump-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 ## Matrix
 |  |
