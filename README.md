@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3731-find-missing-elements](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
