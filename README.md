@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1386-cinema-seat-allocation) |
+| [1406-stone-game-iii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1563-stone-game-v) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1406-stone-game-iii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1872-stone-game-viii) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1872-stone-game-viii) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1872-stone-game-viii) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
@@ -423,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
