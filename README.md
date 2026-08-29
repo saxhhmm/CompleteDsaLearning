@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0066-plus-one) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
