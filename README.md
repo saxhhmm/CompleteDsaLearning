@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0977-squares-of-a-sorted-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
 | ------- |
