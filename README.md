@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
 | [3310-remove-methods-from-project](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3310-remove-methods-from-project) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0394-decode-string) |
