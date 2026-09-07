@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1510-stone-game-iv) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0940-distinct-subsequences-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
