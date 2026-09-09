@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0160-intersection-of-two-linked-lists) |
