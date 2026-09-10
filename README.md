@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0219-contains-duplicate-ii) |
+| [0274-h-index](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0416-partition-equal-subset-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0148-sort-list) |
+| [0274-h-index](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0977-squares-of-a-sorted-array) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0274-h-index) |
 | [0387-first-unique-character-in-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
