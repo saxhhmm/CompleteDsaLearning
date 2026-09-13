@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0518-coin-change-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0977-squares-of-a-sorted-array) |
 | [0999-available-captures-for-rook](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0999-available-captures-for-rook) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0835-image-overlap) |
 | [0999-available-captures-for-rook](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0999-available-captures-for-rook) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
