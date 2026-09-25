@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0322-coin-change) |
+| [1096-brace-expansion-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0398-random-pick-index) |
 | [0567-permutation-in-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1096-brace-expansion-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0940-distinct-subsequences-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -404,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0394-decode-string) |
+| [1096-brace-expansion-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1096-brace-expansion-ii) |
 ## Simulation
 |  |
 | ------- |
