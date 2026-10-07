@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3310-remove-methods-from-project) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0389-find-the-difference) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saxhhmm/CompleteDsaLearning/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
